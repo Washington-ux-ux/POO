@@ -21,6 +21,7 @@ Surgiu para lidar com a complexidade crescente de sistemas que o paradigma proce
 A POO facilita a modelagem de domínios reais, promove reutilização (via herança/composição), modularidade (encapsulamento) e evolução mais segura do código, reduzindo acoplamento e melhorando organização.
 
 🏛️ Os Quatro Pilares da POO
+
 Abstração
 
 Encapsulamento
